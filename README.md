@@ -2,8 +2,6 @@
 
 By Leonardo Cohen
 
-Video overview: https://www.youtube.com/watch?v=LQKDwekCLuw
-
 ## Scope
 
 The purpose of this database is to mimic basic functionalities spotify's database has.
